@@ -1,0 +1,9 @@
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Segundo_Parcial_MCP\Capa_Datos\obj\Debug\Capa_Data.csproj.AssemblyReference.cache
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Segundo_Parcial_MCP\Capa_Datos\obj\Debug\Capa_Data.csproj.CoreCompileInputs.cache
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Segundo_Parcial_MCP\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Segundo_Parcial_MCP\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Segundo_Parcial_MCP\Capa_Datos\bin\Debug\Capa_Entidad.dll
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Segundo_Parcial_MCP\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Segundo_Parcial_MCP\Capa_Datos\obj\Debug\Capa_Data.csproj.CopyComplete
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Segundo_Parcial_MCP\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Segundo_Parcial_MCP\Capa_Datos\obj\Debug\Capa_Datos.pdb

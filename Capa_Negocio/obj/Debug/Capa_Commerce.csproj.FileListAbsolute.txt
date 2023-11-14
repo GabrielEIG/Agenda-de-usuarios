@@ -1,0 +1,11 @@
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Segundo_Parcial_MCP\Capa_Negocio\obj\Debug\Capa_Commerce.csproj.AssemblyReference.cache
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Segundo_Parcial_MCP\Capa_Negocio\obj\Debug\Capa_Commerce.csproj.CoreCompileInputs.cache
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Segundo_Parcial_MCP\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Segundo_Parcial_MCP\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Segundo_Parcial_MCP\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Segundo_Parcial_MCP\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Segundo_Parcial_MCP\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Segundo_Parcial_MCP\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Segundo_Parcial_MCP\Capa_Negocio\obj\Debug\Capa_Commerce.csproj.CopyComplete
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Segundo_Parcial_MCP\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Segundo_Parcial_MCP\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
